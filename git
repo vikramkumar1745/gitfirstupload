@@ -1,0 +1,9 @@
+Uploading files
+
+git init 
+ls -a //is for checking the hidden files
+git config --global user.name "vikramkumar"
+git config --global user.email "vikramkumar1745@gmail.com"
+git commit -m //commit all the files
+
+ 
